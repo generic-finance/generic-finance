@@ -1,0 +1,7 @@
+# Deployment files
+.secret
+.secret.json
+migrations/*_deploy_*
+
+# Node
+node_modules/
